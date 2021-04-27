@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fitness.ge</title>
+</head>
+<style>
+    body{font-size: 16;
+    font-family:Georgia, 'Times New Roman', Times, serif}
+
+h1 { 
+    color:rgb(21, 167, 167)
+
+}
+
+
+
+h2 {color: rgb(7, 28, 80);}
+
+</style>
+
+
+
+<body>
+    <!-- მთავარი სათაური -->
+
+    <p><h1>FITNESS.GE</h1></p>
+
+
+<!--დამატებით ინფოზე გადასასვლელი-->
+
+<ul>
+<p><h2>ფიტნეს დარბაზები</h2></p>
+
+<h2>სპორტული მაღაზია</h2>
+<h2>საკვები დანამატები</h2>
+<h2>სავარჯიშო პროგრამა</h2>  
+<h2>სტატიები</h2>
+<h2>ვიდეო პორტალი</h2>
+
+</ul>
+
+
+</body>
+</html>
